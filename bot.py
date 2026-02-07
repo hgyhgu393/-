@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 import asyncio
 
 # --- ตั้งค่า Discord ---
-TOKEN = 'MTQyNDcxMjIxMjgyMzU0Mzg1OQ.Gm4wDn.AGRtlPjNMvdlWFJl8WwiPZabd5jmrIf5tRXG0Q'
+TOKEN = 'MTQyNDcxMjIxMjgyMzU0Mzg1OQ.GKZtgq.8V0pIWNCdJCJ4hR2XCzh1nfMvhTIm_MDqNPoW4'
 # ห้องที่ต้องการให้บอททำงาน (ใส่ ID ห้อง)
 TARGET_CHANNEL_ID = 1424730367952289822
 
